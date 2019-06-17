@@ -11,7 +11,7 @@
     }
 
     button:hover {
-        color: $vass;
+        color: $base;
         text-decoration: none;  
     }
 }
@@ -27,5 +27,5 @@
 }
 
 .selected {
-    border-bottom: 4px solid $vass;
+    border-bottom: 4px solid $base;
 }
