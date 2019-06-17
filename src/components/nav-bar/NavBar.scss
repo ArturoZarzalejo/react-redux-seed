@@ -1,0 +1,35 @@
+@import "../../common/styles/colors.scss";
+
+.nav-bar {
+    width: 100%;
+    height: 10vh;
+    padding: 1rem;
+    background-color: white;
+}
+
+.app-ver {
+    font-size: .8rem;
+    font-weight: 100;
+    color: $vass;
+    margin-top: -1rem;
+    padding-left: 2px;
+}
+
+.nav-header {
+    font-weight: 1000;
+    color: $dark_gray;
+
+    h1 {
+        font-size: 2rem;
+    }
+}
+
+.nav-link-list {
+
+    li {
+        list-style-type: none;
+        margin: 1rem;
+        margin-left: -1rem;
+    }
+}
+

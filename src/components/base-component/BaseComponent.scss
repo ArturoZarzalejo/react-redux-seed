@@ -1,0 +1,28 @@
+@import "../../common/styles/colors.scss";
+
+h1 {
+    color: $dark_gray;
+    margin-left: -3px;
+}
+
+p {
+    border-left: 4px solid $vass;
+    padding-left: 1rem;
+    color: $dark_gray;
+}
+
+a {
+    font-weight: 600;
+}
+
+.base-component {
+    height: 100%;
+}
+
+.text-container {
+    width: 35%;
+    display: block;
+    margin: 0 auto;
+    padding-top: 5rem;
+    text-align: justify;
+}
